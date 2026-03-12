@@ -1,0 +1,15 @@
+# Datos del servidor Minecraft
+data/
+
+# Backups
+backups/
+
+# Variables de entorno locales
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
