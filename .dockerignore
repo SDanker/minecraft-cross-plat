@@ -1,0 +1,8 @@
+data/
+backups/
+.env
+*.log
+*.md
+.git
+.gitignore
+scripts/
